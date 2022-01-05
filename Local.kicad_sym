@@ -782,10 +782,6 @@
         (name "Vin +" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at -10.16 -2.54 0) (length 2.54) hide
-        (name "Vin -" (effects (font (size 1.27 1.27))))
-        (number "10" (effects (font (size 1.27 1.27))))
-      )
       (pin input line (at -10.16 -6.35 0) (length 2.54)
         (name "On / Off" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
@@ -809,10 +805,6 @@
       (pin power_out line (at 10.16 3.81 180) (length 2.54)
         (name "Vout +" (effects (font (size 1.27 1.27))))
         (number "8" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at -10.16 3.81 0) (length 2.54) hide
-        (name "Vin +" (effects (font (size 1.27 1.27))))
-        (number "9" (effects (font (size 1.27 1.27))))
       )
     )
   )
