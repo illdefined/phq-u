@@ -750,7 +750,7 @@
     (property "Value" "i7A4W033A033V" (id 1) (at 0 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Local:i7A4W033A033V" (id 2) (at 0 13.97 0)
+    (property "Footprint" "Local:i7A4W033A033V-0C1" (id 2) (at 0 13.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/power/switching-power/dc-dc-converter/specification/i7a_spec.pdf" (id 3) (at 0 13.97 0)

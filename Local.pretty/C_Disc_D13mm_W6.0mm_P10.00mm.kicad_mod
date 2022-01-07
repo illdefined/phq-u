@@ -1,6 +1,6 @@
 (footprint "C_Disc_D13mm_W6.0mm_P10.00mm" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61D5BEFF)
+  (tedit 61D860D1)
   (descr "C, Disc series, Radial, pin pitch=10.00mm, , diameter*width=12.5*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf")
   (tags "C Disc series Radial pin pitch 10.00mm  diameter 12.5mm width 5.0mm Capacitor")
   (attr through_hole)
@@ -31,7 +31,7 @@
   (pad "1" thru_hole circle (at -5 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 382ca670-6ae8-4de6-90f9-f241d1337171))
   (pad "2" thru_hole circle (at 5 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 0e8f7fc0-2ef2-4b90-9c15-8a3a601ee459))
   (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D12.5mm_W5.0mm_P10.00mm.wrl"
-    (offset (xyz 0 0 0))
+    (offset (xyz -5 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

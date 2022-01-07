@@ -1,6 +1,6 @@
 (footprint "C_Rect_L26.5mm_W12mm_P22.50mm_MKT" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61D5BF23)
+  (tedit 61D860FB)
   (descr "C, Rect series, Radial, pin pitch=22.50mm, , length*width=26.5*11.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf")
   (tags "C Rect series Radial pin pitch 22.50mm  length 26.5mm width 11.5mm Capacitor")
   (attr through_hole)
@@ -31,7 +31,7 @@
   (pad "1" thru_hole circle (at -11.25 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp fc796ff4-0856-40c2-a5c2-f734d65819ae))
   (pad "2" thru_hole circle (at 11.25 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp f219313a-1e51-465e-95d4-49902f6b3844))
   (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L26.5mm_W11.5mm_P22.50mm_MKS4.wrl"
-    (offset (xyz 0 0 0))
+    (offset (xyz -11.25 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
