@@ -3166,7 +3166,7 @@
     (property "Value" "470 µ" (id 1) (at 193.04 78.74 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" (id 2) (at 191.77 76.2 0)
+    (property "Footprint" "Local:CP_Radial_D16.0mm_P7.50mm" (id 2) (at 191.77 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 191.77 76.2 0)
@@ -3787,7 +3787,7 @@
     (property "Value" "470 µ" (id 1) (at 149.86 78.74 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" (id 2) (at 143.51 76.2 0)
+    (property "Footprint" "Local:CP_Radial_D16.0mm_P7.50mm" (id 2) (at 143.51 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 143.51 76.2 0)
@@ -3863,7 +3863,7 @@
     (property "Value" "470 µ" (id 1) (at 142.24 78.74 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" (id 2) (at 135.89 76.2 0)
+    (property "Footprint" "Local:CP_Radial_D16.0mm_P7.50mm" (id 2) (at 135.89 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 135.89 76.2 0)
@@ -4110,10 +4110,10 @@
       (reference "C4") (unit 1) (value "22 µ") (footprint "Local:KRM55WR71J226MH01")
     )
     (path "/7c052fb9-fecd-48a6-b115-90192e80ae2b"
-      (reference "C5") (unit 1) (value "470 µ") (footprint "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm")
+      (reference "C5") (unit 1) (value "470 µ") (footprint "Local:CP_Radial_D16.0mm_P7.50mm")
     )
     (path "/545dcca5-4516-4b56-930c-fa32800a5d09"
-      (reference "C6") (unit 1) (value "470 µ") (footprint "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm")
+      (reference "C6") (unit 1) (value "470 µ") (footprint "Local:CP_Radial_D16.0mm_P7.50mm")
     )
     (path "/00000000-0000-0000-0000-000061de344a"
       (reference "C8") (unit 1) (value "22 µ") (footprint "Local:KRM55WR71J226MH01")
@@ -4122,7 +4122,7 @@
       (reference "C9") (unit 1) (value "22 µ") (footprint "Local:KRM55WR71J226MH01")
     )
     (path "/00000000-0000-0000-0000-000061de7a61"
-      (reference "C11") (unit 1) (value "470 µ") (footprint "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm")
+      (reference "C11") (unit 1) (value "470 µ") (footprint "Local:CP_Radial_D16.0mm_P7.50mm")
     )
     (path "/00000000-0000-0000-0000-000061d6d659"
       (reference "C12") (unit 1) (value "4n7") (footprint "Local:C_Disc_D13mm_W6.0mm_P10.00mm")
