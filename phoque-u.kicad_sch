@@ -2645,9 +2645,9 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6462f0e1-4e9c-4241-bae4-a8b313c48dde)
   )
-  (text "Copyright 2022 Mikael Voss\nThis work may be used under the terms of the CERN Open Hardware Licence (CERN-OHL-S), version 2."
+  (text "Copyright 2022 Mikael Voss\nThis work may be used under the terms of the strictly‐reciprocative CERN Open Hardware Licence (CERN-OHL-S) version 2."
     (at 177.8 180.34 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (effects (font (size 1.1 1.1)) (justify left bottom))
     (uuid 85749223-0228-4ee2-ab6a-950035b8245b)
   )
   (text "Input: 18…56 V DC, 25 A\nOutput: 3.3…24 V DC, ≤ 32 A, 500 W"
