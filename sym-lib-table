@@ -1,5 +1,4 @@
 (sym_lib_table
-  (lib (name "Local")(type "KiCad")(uri "${KIPRJMOD}/Local.kicad_sym")(options "")(descr ""))
   (lib (name "phq_Module")(type "KiCad")(uri "${KIPRJMOD}/phq/phq_Module.kicad_sym")(options "")(descr ""))
   (lib (name "phq_IC")(type "KiCad")(uri "${KIPRJMOD}/phq/phq_IC.kicad_sym")(options "")(descr ""))
   (lib (name "phq_Tube")(type "KiCad")(uri "${KIPRJMOD}/phq/phq_Tube.kicad_sym")(options "")(descr ""))
