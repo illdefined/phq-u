@@ -1,3 +1,12 @@
 (sym_lib_table
   (lib (name "Local")(type "KiCad")(uri "${KIPRJMOD}/Local.kicad_sym")(options "")(descr ""))
+  (lib (name "phq_Module")(type "KiCad")(uri "${KIPRJMOD}/phq/phq_Module.kicad_sym")(options "")(descr ""))
+  (lib (name "phq_IC")(type "KiCad")(uri "${KIPRJMOD}/phq/phq_IC.kicad_sym")(options "")(descr ""))
+  (lib (name "phq_Tube")(type "KiCad")(uri "${KIPRJMOD}/phq/phq_Tube.kicad_sym")(options "")(descr ""))
+  (lib (name "phq_Resistor")(type "KiCad")(uri "${KIPRJMOD}/phq/phq_Resistor.kicad_sym")(options "")(descr ""))
+  (lib (name "phq_Inductor")(type "KiCad")(uri "${KIPRJMOD}/phq/phq_Inductor.kicad_sym")(options "")(descr ""))
+  (lib (name "phq_Diode")(type "KiCad")(uri "${KIPRJMOD}/phq/phq_Diode.kicad_sym")(options "")(descr ""))
+  (lib (name "phq_Connector")(type "KiCad")(uri "${KIPRJMOD}/phq/phq_Connector.kicad_sym")(options "")(descr ""))
+  (lib (name "phq_Capacitor")(type "KiCad")(uri "${KIPRJMOD}/phq/phq_Capacitor.kicad_sym")(options "")(descr ""))
+  (lib (name "phq_Transistor")(type "KiCad")(uri "${KIPRJMOD}/phq/phq_Transistor.kicad_sym")(options "")(descr ""))
 )
