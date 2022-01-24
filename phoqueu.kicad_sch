@@ -1210,10 +1210,10 @@
       (property "Value" "TMCS1108A1U" (id 1) (at 0 -6.35 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Footprint" "" (id 2) (at 0 -7.62 0)
+      (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (id 2) (at 0 -7.62 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Datasheet" "" (id 3) (at 0 -7.62 0)
+      (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tmcs1108.pdf" (id 3) (at 0 -7.62 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (symbol "TMCS1108A1U_0_1"
@@ -1264,7 +1264,7 @@
       (property "Value" "i7A4W033A033V-0C1" (id 1) (at 0 -10.16 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Footprint" "phq_Module:i7A4W-001" (id 2) (at 0 13.97 0)
+      (property "Footprint" "phq_Module:i7A4W-0C1" (id 2) (at 0 13.97 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/power/switching-power/dc-dc-converter/specification/i7a_spec.pdf" (id 3) (at 0 13.97 0)
@@ -2632,7 +2632,7 @@
     (uuid 00000000-0000-0000-0000-000061ce1fbe)
     (property "Reference" "J1" (id 0) (at 20.32 68.4235 0))
     (property "Value" "18…56 V" (id 1) (at 20.32 71.1986 0))
-    (property "Footprint" "" (id 2) (at 20.32 76.2 0)
+    (property "Footprint" "phq_Connector:Phoenix_1987737" (id 2) (at 20.32 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 20.32 76.2 0)
@@ -2654,7 +2654,7 @@
     (uuid 00000000-0000-0000-0000-000061cea85f)
     (property "Reference" "F1" (id 0) (at 31.75 58.7715 90))
     (property "Value" "25 A" (id 1) (at 31.75 61.5466 90))
-    (property "Footprint" "phq_THT:Keystone 3557" (id 2) (at 31.75 65.278 90)
+    (property "Footprint" "phq_THT:Keystone_3557" (id 2) (at 31.75 65.278 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 31.75 63.5 0)
@@ -2796,7 +2796,7 @@
     (property "Value" "3.3…24 V" (id 1) (at 273.812 78.0666 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 271.78 76.2 0)
+    (property "Footprint" "phq_Connector:Phoenix_1987737" (id 2) (at 271.78 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 271.78 76.2 0)
@@ -2919,7 +2919,7 @@
     (uuid 00000000-0000-0000-0000-000061e0f358)
     (property "Reference" "U1" (id 0) (at 158.75 63.3435 0))
     (property "Value" "i7A4W033A033V" (id 1) (at 158.75 66.1186 0))
-    (property "Footprint" "phq_Module:i7A4W-001" (id 2) (at 158.75 62.23 0)
+    (property "Footprint" "phq_Module:i7A4W-0C1" (id 2) (at 158.75 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/power/switching-power/dc-dc-converter/specification/i7a_spec.pdf" (id 3) (at 158.75 62.23 0)
@@ -2942,7 +2942,7 @@
     (uuid 00000000-0000-0000-0000-000061f10d81)
     (property "Reference" "F3" (id 0) (at 196.85 58.7715 90))
     (property "Value" "30 A" (id 1) (at 196.85 61.5466 90))
-    (property "Footprint" "phq_THT:Keystone 3557" (id 2) (at 196.85 65.278 90)
+    (property "Footprint" "phq_THT:Keystone_3557" (id 2) (at 196.85 65.278 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 196.85 63.5 0)
@@ -2960,7 +2960,7 @@
     (uuid 00000000-0000-0000-0000-000061f20390)
     (property "Reference" "F4" (id 0) (at 196.85 84.1715 90))
     (property "Value" "30 A" (id 1) (at 196.85 86.9466 90))
-    (property "Footprint" "phq_THT:Keystone 3557" (id 2) (at 196.85 90.678 90)
+    (property "Footprint" "phq_THT:Keystone_3557" (id 2) (at 196.85 90.678 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 196.85 88.9 0)
@@ -3366,7 +3366,7 @@
     (property "Value" "390 µ" (id 1) (at 129.159 77.5205 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Capacitor_THT:C_Radial_D12.5mm_H20.0mm_P5.00mm" (id 2) (at 127 76.2 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" (id 2) (at 127 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 127 76.2 0)
@@ -3517,7 +3517,7 @@
     (property "Value" "560 µ" (id 1) (at 192.659 77.5205 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Capacitor_THT:C_Radial_D10.0mm_H20.0mm_P5.00mm" (id 2) (at 190.5 76.2 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" (id 2) (at 190.5 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 190.5 76.2 0)
@@ -3629,7 +3629,7 @@
     (uuid 87dcb324-6692-4a89-9fda-c691d148a6fa)
     (property "Reference" "F2" (id 0) (at 31.75 91.8115 90))
     (property "Value" "25 A" (id 1) (at 31.75 94.5866 90))
-    (property "Footprint" "phq_THT:Keystone 3557" (id 2) (at 31.75 87.122 90)
+    (property "Footprint" "phq_THT:Keystone_3557" (id 2) (at 31.75 87.122 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 31.75 88.9 0)
@@ -3692,7 +3692,7 @@
     (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (id 2) (at 229.87 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 229.87 96.52 0)
+    (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tmcs1108.pdf" (id 3) (at 229.87 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 27452b93-5a09-4fa9-95be-38dc136f2982))
@@ -3851,7 +3851,7 @@
     (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (id 2) (at 214.63 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 214.63 55.88 0)
+    (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tmcs1108.pdf" (id 3) (at 214.63 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 237d3bb8-118d-45d2-93d0-57eb5ac8701a))
@@ -4292,7 +4292,7 @@
       (reference "C3") (unit 1) (value "4µ7") (footprint "Capacitor_SMD:C_1210_3225Metric")
     )
     (path "/545dcca5-4516-4b56-930c-fa32800a5d09"
-      (reference "C4") (unit 1) (value "390 µ") (footprint "Capacitor_THT:C_Radial_D12.5mm_H20.0mm_P5.00mm")
+      (reference "C4") (unit 1) (value "390 µ") (footprint "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm")
     )
     (path "/00000000-0000-0000-0000-000061de344a"
       (reference "C5") (unit 1) (value "22 µ") (footprint "Capacitor_SMD:C_2220_5650Metric")
@@ -4301,7 +4301,7 @@
       (reference "C6") (unit 1) (value "22 µ") (footprint "Capacitor_SMD:C_2220_5650Metric")
     )
     (path "/706d5b5d-54d1-4269-9ccc-cbc4d1b6d1b1"
-      (reference "C7") (unit 1) (value "560 µ") (footprint "Capacitor_THT:C_Radial_D10.0mm_H20.0mm_P5.00mm")
+      (reference "C7") (unit 1) (value "560 µ") (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
     )
     (path "/61409210-3cfd-4077-8aca-d85223ff9dd2"
       (reference "C8") (unit 1) (value "4µ7") (footprint "Capacitor_SMD:C_1210_3225Metric")
@@ -4355,16 +4355,16 @@
       (reference "D6") (unit 1) (value "5 V") (footprint "Diode_SMD:D_SMA")
     )
     (path "/00000000-0000-0000-0000-000061cea85f"
-      (reference "F1") (unit 1) (value "25 A") (footprint "phq_THT:Keystone 3557")
+      (reference "F1") (unit 1) (value "25 A") (footprint "phq_THT:Keystone_3557")
     )
     (path "/87dcb324-6692-4a89-9fda-c691d148a6fa"
-      (reference "F2") (unit 1) (value "25 A") (footprint "phq_THT:Keystone 3557")
+      (reference "F2") (unit 1) (value "25 A") (footprint "phq_THT:Keystone_3557")
     )
     (path "/00000000-0000-0000-0000-000061f10d81"
-      (reference "F3") (unit 1) (value "30 A") (footprint "phq_THT:Keystone 3557")
+      (reference "F3") (unit 1) (value "30 A") (footprint "phq_THT:Keystone_3557")
     )
     (path "/00000000-0000-0000-0000-000061f20390"
-      (reference "F4") (unit 1) (value "30 A") (footprint "phq_THT:Keystone 3557")
+      (reference "F4") (unit 1) (value "30 A") (footprint "phq_THT:Keystone_3557")
     )
     (path "/b964d121-1ca9-4d94-9cd9-a72a5247427a/f629f221-7947-4a84-8e39-44b1090eabb8"
       (reference "F5") (unit 1) (value "10 mA") (footprint "Fuse:Fuse_0603_1608Metric")
@@ -4397,7 +4397,7 @@
       (reference "H4") (unit 1) (value "M3") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via")
     )
     (path "/00000000-0000-0000-0000-000061ce1fbe"
-      (reference "J1") (unit 1) (value "18…56 V") (footprint "")
+      (reference "J1") (unit 1) (value "18…56 V") (footprint "phq_Connector:Phoenix_1987737")
     )
     (path "/b48a8561-9da0-49f0-a478-043f03753e85"
       (reference "J2") (unit 1) (value "MCU bypass") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical")
@@ -4406,7 +4406,7 @@
       (reference "J3") (unit 1) (value "Voltage select") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x12_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-000061d6d641"
-      (reference "J4") (unit 1) (value "3.3…24 V") (footprint "")
+      (reference "J4") (unit 1) (value "3.3…24 V") (footprint "phq_Connector:Phoenix_1987737")
     )
     (path "/b964d121-1ca9-4d94-9cd9-a72a5247427a/1fbd6f20-e054-41ef-8930-3ae35b267af3"
       (reference "J5") (unit 1) (value "MCU disable") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical")
@@ -4424,7 +4424,7 @@
       (reference "L1") (unit 1) (value "320µ") (footprint "phq_SMD:CMX1211Z321B-10")
     )
     (path "/b964d121-1ca9-4d94-9cd9-a72a5247427a/cb7151d5-e2ab-4025-b1e2-8bdcd9fdf752"
-      (reference "L2") (unit 1) (value "15µ") (footprint "")
+      (reference "L2") (unit 1) (value "15µ") (footprint "phq_SMD:WE-LQS_4018")
     )
     (path "/5726c03a-2dcc-427a-9a76-e9bc5e71ec3d"
       (reference "Q1") (unit 1) (value "NX138AK") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -4514,7 +4514,7 @@
       (reference "RV6") (unit 1) (value "24 V") (footprint "Capacitor_SMD:C_1210_3225Metric")
     )
     (path "/00000000-0000-0000-0000-000061e0f358"
-      (reference "U1") (unit 1) (value "i7A4W033A033V") (footprint "phq_Module:i7A4W-001")
+      (reference "U1") (unit 1) (value "i7A4W033A033V") (footprint "phq_Module:i7A4W-0C1")
     )
     (path "/c9871f6b-9c72-4b75-a42a-a5b6334526f5"
       (reference "U2") (unit 1) (value "TMCS1108A1U") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
@@ -4526,7 +4526,7 @@
       (reference "U4") (unit 1) (value "RPMH3.3-0.5") (footprint "Converter_DCDC:Converter_DCDC_RECOM_RPMx.x-x.0")
     )
     (path "/b964d121-1ca9-4d94-9cd9-a72a5247427a/a392fef5-46e3-46d5-8624-fab661b9f6d6"
-      (reference "U5") (unit 1) (value "ESP32-C3-MINI-1U") (footprint "")
+      (reference "U5") (unit 1) (value "ESP32-C3") (footprint "phq_Module:ESP32-C3-MINI-1U")
     )
     (path "/b964d121-1ca9-4d94-9cd9-a72a5247427a/83a9ae57-3260-46c7-b00c-064feff08fc9"
       (reference "U6") (unit 1) (value "ECMF02-2AMX6") (footprint "Package_DFN_QFN:ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm")

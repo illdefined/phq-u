@@ -369,7 +369,11 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "Local"
+      "phq_Connector",
+      "phq_Module",
+      "phq_SMD",
+      "phq_Symbol",
+      "phq_THT"
     ],
     "pinned_symbol_libs": []
   },
@@ -407,19 +411,6 @@
         "microvia_drill": 0.2,
         "name": "Power",
         "nets": [
-          "/V_{infilt}±",
-          "/V_{infilt}∓",
-          "/V_{infuse}±",
-          "/V_{infuse}∓",
-          "/V_{in}+",
-          "/V_{in}-",
-          "/V_{in}±",
-          "/V_{in}∓",
-          "/V_{outfilt}+",
-          "/V_{outfilt}-",
-          "/V_{outfuse}+",
-          "/V_{outfuse}-",
-          "/V_{out}+",
           "/V_{out}-",
           "GND"
         ],
@@ -441,11 +432,7 @@
         "microvia_drill": 0.2,
         "name": "Signal",
         "nets": [
-          "/G_{Q1}",
-          "/G_{Q2}",
-          "/G_{Q3}",
-          "/G_{Q4}",
-          "/On{slash}Off"
+          "/G_{Q1}"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -465,19 +452,7 @@
         "microvia_drill": 0.2,
         "name": "Trim",
         "nets": [
-          "/Trim",
-          "Net-(R1-Pad1)",
-          "Net-(R10-Pad1)",
-          "Net-(R11-Pad1)",
-          "Net-(R12-Pad1)",
-          "Net-(R2-Pad1)",
-          "Net-(R3-Pad1)",
-          "Net-(R4-Pad1)",
-          "Net-(R5-Pad1)",
-          "Net-(R6-Pad1)",
-          "Net-(R7-Pad1)",
-          "Net-(R8-Pad1)",
-          "Net-(R9-Pad1)"
+          "/Trim"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -496,7 +471,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "../phq/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -545,6 +520,10 @@
     [
       "9883090f-745b-4d06-9549-13a41d39de6f",
       ""
+    ],
+    [
+      "b964d121-1ca9-4d94-9cd9-a72a5247427a",
+      "MCU"
     ]
   ],
   "text_variables": {}
