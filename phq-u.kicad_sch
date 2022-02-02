@@ -3995,7 +3995,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 266.7 87.63 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid fd1e3d0c-ace6-4470-9a05-99027ad9e49a)
     (property "Reference" "R14" (id 0) (at 268.1986 86.7215 0)
       (effects (font (size 1.27 1.27)) (justify left))
