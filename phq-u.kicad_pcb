@@ -11906,7 +11906,7 @@
     (property "Sheetfile" "control.kicad_sch")
     (property "Sheetname" "MCU")
     (path "/b964d121-1ca9-4d94-9cd9-a72a5247427a/f59935f8-569b-48ff-a52e-2158f1fba412")
-    (attr through_hole)
+    (attr through_hole exclude_from_bom)
     (fp_text reference "J8" (at 0 -2.5 180) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3e73da0f-d5c2-4acc-b979-ab41d4e53985)
