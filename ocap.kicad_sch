@@ -345,7 +345,7 @@
   (symbol (lib_id "power:GNDD") (at 152.4 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 07b224a9-2207-4c84-a70c-e1ed63f503f5)
-    (property "Reference" "#PWR065" (id 0) (at 152.4 109.22 0)
+    (property "Reference" "#PWR067" (id 0) (at 152.4 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDD" (id 1) (at 152.4 107.0515 0))
