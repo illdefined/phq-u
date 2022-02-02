@@ -258,7 +258,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via" (layer "F.Cu")
     (tedit 56DDBCCA) (tstamp 0a04226b-5f4a-49a4-ac9e-e9af005a177a)
-    (at 87.44 72.2)
+    (at 84.94 69.7)
     (descr "Mounting Hole 3.2mm, M3")
     (tags "mounting hole 3.2mm m3")
     (property "Sheetfile" "phq-u.kicad_sch")
@@ -6916,7 +6916,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via" (layer "F.Cu")
     (tedit 56DDBCCA) (tstamp 637b1bfb-73b1-4275-aa04-7112aaceac48)
-    (at 197.87 72.2)
+    (at 200.37 69.7)
     (descr "Mounting Hole 3.2mm, M3")
     (tags "mounting hole 3.2mm m3")
     (property "Sheetfile" "phq-u.kicad_sch")
@@ -11370,7 +11370,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via" (layer "F.Cu")
     (tedit 56DDBCCA) (tstamp 71b6b33c-9cf0-4784-a81d-28b806557f02)
-    (at 197.87 127.6)
+    (at 200.37 130.1)
     (descr "Mounting Hole 3.2mm, M3")
     (tags "mounting hole 3.2mm m3")
     (property "Sheetfile" "phq-u.kicad_sch")
@@ -12010,7 +12010,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via" (layer "F.Cu")
     (tedit 56DDBCCA) (tstamp 8fd1d2dd-6a35-4070-8362-7ec8898c9ae5)
-    (at 87.44 127.6)
+    (at 84.94 130.1)
     (descr "Mounting Hole 3.2mm, M3")
     (tags "mounting hole 3.2mm m3")
     (property "Sheetfile" "phq-u.kicad_sch")
