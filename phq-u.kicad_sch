@@ -4574,8 +4574,8 @@
     (path "/b964d121-1ca9-4d94-9cd9-a72a5247427a/88fec918-4234-4e11-b956-fa7fdd09bf22"
       (reference "C11") (unit 1) (value "100 n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
-    (path "/b964d121-1ca9-4d94-9cd9-a72a5247427a/dc447400-8ed1-446b-aa11-322bd1f403ca"
-      (reference "C12") (unit 1) (value "100 n") (footprint "Capacitor_SMD:C_0402_1005Metric")
+    (path "/b964d121-1ca9-4d94-9cd9-a72a5247427a/47b05b1d-3f00-42c8-8169-09a910a688bb"
+      (reference "C12") (unit 1) (value "220 n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/b964d121-1ca9-4d94-9cd9-a72a5247427a/ca9c4034-2a1c-4714-8981-deb6f0035fc4"
       (reference "C13") (unit 1) (value "4µ7") (footprint "Capacitor_SMD:C_1206_3216Metric")
@@ -4596,7 +4596,7 @@
       (reference "C18") (unit 1) (value "4µ7") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/b964d121-1ca9-4d94-9cd9-a72a5247427a/deb775fa-923f-403d-9b96-fa89e925c022"
-      (reference "C19") (unit 1) (value "4µ7") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C19") (unit 1) (value "10µ") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/b964d121-1ca9-4d94-9cd9-a72a5247427a/9df53924-fd66-4b7a-9e59-b6e7b63584e1"
       (reference "C20") (unit 1) (value "100 n") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -4611,13 +4611,13 @@
       (reference "C23") (unit 1) (value "100 n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/b964d121-1ca9-4d94-9cd9-a72a5247427a/d91e88eb-7259-4425-81f4-9a2636cf60bd"
-      (reference "C24") (unit 1) (value "100 n") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C24") (unit 1) (value "220 n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/b964d121-1ca9-4d94-9cd9-a72a5247427a/ed63c0e5-8d6a-486e-8ae9-0a8182788791"
       (reference "C25") (unit 1) (value "4µ7") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
-    (path "/b964d121-1ca9-4d94-9cd9-a72a5247427a/fc9a6b76-69ce-444b-a89f-def0a1165def"
-      (reference "C26") (unit 1) (value "4µ7") (footprint "Capacitor_SMD:C_0805_2012Metric")
+    (path "/b964d121-1ca9-4d94-9cd9-a72a5247427a/5593dec7-7b18-4d71-8932-ff421d1bb4ac"
+      (reference "C26") (unit 1) (value "10µ") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/b964d121-1ca9-4d94-9cd9-a72a5247427a/8d22b2ea-5e7c-4326-9c50-04bb82d10821"
       (reference "C27") (unit 1) (value "100 n") (footprint "Capacitor_SMD:C_0402_1005Metric")
